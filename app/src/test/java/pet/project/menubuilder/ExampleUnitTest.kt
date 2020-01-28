@@ -1,4 +1,4 @@
-package com.example.android.menubuilder
+package pet.project.menubuilder
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
