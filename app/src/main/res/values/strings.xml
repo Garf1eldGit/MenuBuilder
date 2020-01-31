@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Menu Builder</string>
+    <string name="status">Status</string>
 </resources>
