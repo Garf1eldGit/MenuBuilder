@@ -4,7 +4,7 @@
     android:id="@+id/LinerLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="@color/background"
     tools:context=".MainActivity">
 
     <fragment
