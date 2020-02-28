@@ -10,4 +10,10 @@
         </item>
     </style>
 
+
+    <style name="AppThemeCustom" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
 </resources>
