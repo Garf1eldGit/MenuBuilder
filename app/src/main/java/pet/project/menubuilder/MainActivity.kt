@@ -2,7 +2,6 @@ package pet.project.menubuilder
 
 import android.os.Bundle
 import android.view.View
-import android.view.Window
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.common.SignInButton
 
@@ -14,12 +13,12 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         val signInButton: SignInButton = findViewById(R.id.signInButton)
 
+        signInButton.setOnClickListener(this)
     }
 
-    override fun onClick(view: View?) {
-        when (view?.id) {
+    override fun onClick(p0: View?) {
 
-        }
     }
+
 }
 
