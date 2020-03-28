@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162264390341",
+    "firebase_url": "https://menubuilder-931ac.firebaseio.com",
+    "project_id": "menubuilder-931ac",
+    "storage_bucket": "menubuilder-931ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162264390341:android:95c51d89c03b7bd49aaeac",
+        "android_client_info": {
+          "package_name": "pet.project.menubuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162264390341-kdfmbadr6asi964gvb5s16tkk3gnmhml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALa9BtNMGp7ho8SECF26DeuEB2lCpvqdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162264390341-kdfmbadr6asi964gvb5s16tkk3gnmhml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
