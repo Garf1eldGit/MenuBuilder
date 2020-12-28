@@ -1,14 +1,11 @@
-# MenuBuilder
-Pet-project для изучения android разработки
-
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.google.com/
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">project_title</h3>
